@@ -1,6 +1,6 @@
 {
   "name": "@ngbs/rxjs",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Utilities to assist with the usage of RxJS",
   "main": "dist/index.js",
   "scripts": {
